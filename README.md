@@ -1,11 +1,11 @@
 
 
-![logo](https://github.com/codedirector/codedirector/blob/main/github-header-image.png)
+
 
 <h1 align="center">Hi 👋, I'm Shobhit Sharma</h1>
 <h3 align="center">Software Developer  | Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:800/0*NERdeMelL1W6HdZM.gif">
+<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzkwMzM1ODUsIm5iZiI6MTc3OTAzMzI4NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTE3VDE1NTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiZGFlMWJhYzdlMzRlM2MyMDBjODE5Mjk2ZTM2MDBmMjlhMTcwOGM5YmI2ZjI1ZTk2NDIzYjEwMGQxYjMyZjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.zjkkf5VtjkPNvaP7dY9NSXn35VrgtUvwfzvJAjIgVYY">
 
 - 🔭 I’m currently working on **Full Stack Development & AI-Powered Applications Generative AI,**
 
