@@ -3,15 +3,15 @@
 ![logo](https://github.com/codedirector/codedirector/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Shobhit Sharma</h1>
-<h3 align="center">Software Developer | AI Engineer | Full Stack Developer from India</h3>
+<h3 align="center">Software Developer  | Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:800/0*NERdeMelL1W6HdZM.gif">
 
-- 🔭 I’m currently working on **Generative AI, Full Stack Development & AI-Powered Applications**
+- 🔭 I’m currently working on **Full Stack Development & AI-Powered Applications Generative AI,**
 
-- 🌱 I’m currently learning **Advanced NLP, LLMs & Scalable Backend Systems**
+- 🌱 I’m currently learning **Scalable Backend Systems & Advanced NLP, LLMs**
 
-- 👯 I’m looking to collaborate on **AI/ML and Full Stack Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects and AI/ML**
 
 - 💬 Ask me about **Python, MERN Stack, APIs, GenAI & Deployment**
 
